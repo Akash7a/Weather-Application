@@ -13,6 +13,7 @@ body {
     background-size: 100% 100%;
     background-position: center;
     color: white;
+    min-height: 100vh;
 }
 .container {
     text-align: center;
@@ -21,7 +22,7 @@ body {
     box-shadow: 5px 5px 10px black, inset -5px -5px 10px black;
     margin: 20px 0;
     background-color: rgba(67, 67, 67,0.5);
-    width: 500px;
+    width: 80%;
 }
 .weather-info {
     margin-top: 20px;
